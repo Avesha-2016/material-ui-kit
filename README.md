@@ -1,4 +1,4 @@
-material-UI-kit
+Material-UI-Kit
 ===============
 
 Material UI Kit / HTML + CSS (SCSS)
