@@ -1,6 +1,6 @@
-Material-UI-Kit
-===============
+# Material UI kit 🏄
+> Ultra minimal material kit
 
-Material UI Kit / HTML + CSS (SCSS)
+<img src="https://cdn.dribbble.com/users/168777/screenshots/1803843/material_design_ui_kit.jpg"/>
 
-Designed by UltraLinx - https://dribbble.com/UltraLinx
+##### Designed by [UltraLinx](https://dribbble.com/UltraLinx)
